@@ -11,10 +11,8 @@ http://localhost:8080/wordsearchgame/getgrid , with sampe request body: {
 and request header: 
 content-type:application/json 
 
-will give u matrix: 
- U  o  t 
- E  n  w 
- D  e  o 
+will give u 2d matrix: 
+ U  o  t  | E  n  w  | D  e  o 
  
  
  Have fun time solving the word search !
